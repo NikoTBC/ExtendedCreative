@@ -74,11 +74,8 @@ public function onEnable(){
   item::addCreativeItem(Item::get(Item::GLOWING_REDSTONE_ORE, 0));
   item::addCreativeItem(Item::get(Item::WALL_SIGN, 0));
   item::addCreativeItem(Item::get(Item::BURNING_FURNACE, 0));
-  item::addCreativeItem(Item::get(Item::NETHER_QUARTZ_ORE, 0));
-  item::addCreativeItem(Item::get(Item::NETHER_WART, 0));
   item::addCreativeItem(Item::get(Item::GRASS_PATH, 0));
   item::addCreativeItem(Item::get(127, 0));
-  item::addCreativeItem(Item::get(Item::BREWING_STAND, 0));
   item::addCreativeItem(Item::get(Item::RAW_PORKCHOP, 0));
   item::addCreativeItem(Item::get(Item::COOKED_PORKCHOP, 0));
   item::addCreativeItem(Item::get(Item::RAW_CHICKEN, 0));
