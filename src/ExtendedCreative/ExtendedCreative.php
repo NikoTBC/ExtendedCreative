@@ -21,6 +21,7 @@ public function onEnable(){
   item::removeCreativeItem(Item::get(Item::IRON_SWORD, 0));
   item::removeCreativeItem(Item::get(Item::IRON_HOE, 0));
   item::removeCreativeItem(Item::get(Item::IRON_SHOVEL, 0));
+  item::removeCreativeItem(Item::get(Item::SNOWBALL, 0));
   item::addCreativeItem(Item::get(Item::WOODEN_SWORD, 0));
   item::addCreativeItem(Item::get(Item::WOODEN_HOE, 0));
   item::addCreativeItem(Item::get(Item::WOODEN_SHOVEL, 0));
@@ -66,6 +67,10 @@ public function onEnable(){
   item::addCreativeItem(Item::get(Item::GOLD_CHESTPLATE, 0));
   item::addCreativeItem(Item::get(Item::GOLD_LEGGINGS, 0));
   item::addCreativeItem(Item::get(Item::GOLD_BOOTS, 0));
+  item::addCreativeItem(Item::get(Item::SNOWBALL, 0));
+  item::addCreativeItem(Item::get(Item::SOUL_SAND, 0));
+  item::addCreativeItem(Item::get(Item::IRON_DOOR, 0));
+  item::addCreativeItem(Item::get(Item::GLOWING_OBSIDIAN, 0));
 }
 
 public function onDisable(){
