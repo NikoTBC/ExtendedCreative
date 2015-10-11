@@ -1,0 +1,6 @@
+name: ExtendedCreative
+author: NikoTBC
+main: ExtendedCreative\ExtendedCreative
+version: 1.0.0
+api: [1.12.0]
+description: Add more items into Creative inventory!
