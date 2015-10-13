@@ -3,6 +3,6 @@ This plugin add more items to Creative inventory for PocketMine-MP. This is a mo
 
 # Planned Features:
 
-•Add mob spawn eggs
-•Add more food items
-•Add unobtainable blocks and items(?)
+□Add mob spawn eggs
+□Add more food items
+□Add unobtainable blocks and items(?)
