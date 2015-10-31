@@ -3,5 +3,5 @@ This plugin add more items to Creative inventory for PocketMine-MP. This is a mo
 
 # Planned Features:
 
-1. Arrange items like in singleplayer
+1. Arrange items and blocks like in singleplayer (Half Done)
 2. Add unobtainable blocks (?)
